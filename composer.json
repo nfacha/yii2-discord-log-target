@@ -1,5 +1,5 @@
 {
-    "name": "nfacha/discordLogTarget",
+    "name": "nfacha/dicord-log-target",
     "description": "Discord WebHook Log Target for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2", "yii2-extension", "discord", "log", "log target", "logtarget"],
