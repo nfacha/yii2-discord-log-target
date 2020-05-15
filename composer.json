@@ -1,0 +1,22 @@
+{
+    "name": "nfacha/dicord-log-target",
+    "description": "Discord WebHook Log Target for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "yii2-extension", "discord", "log", "log target", "logtarget"],
+    "authors": [
+        {
+            "name": "Nuno Facha",
+            "email": "nuno@facha.dev"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "php-curl-class/php-curl-class": "^8.5",
+        "nopjmp/discord-webhooks": "^0.3.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "php-curl-class\\php-curl-class\\": ""
+        }
+    }
+}
