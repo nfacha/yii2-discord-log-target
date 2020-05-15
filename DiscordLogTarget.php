@@ -1,6 +1,6 @@
 <?php /** @noinspection PhpUnused */
 
-namespace nfacha\discordlogtarget;
+namespace nfacha\discordLogTarget;
 
 use DiscordWebhooks\Client;
 use DiscordWebhooks\Embed;
